@@ -64,8 +64,8 @@ MonoBehaviour:
             version: 1
             fileID: 0
             guid: 
-            id: 7e01dd5a97fb9d140b7d2b282261a331|Assets/ShockCollarOSCBridge/FX.controller
-            objRef: {fileID: 9100000, guid: 7e01dd5a97fb9d140b7d2b282261a331, type: 2}
+            id: 93a7a6865ac80d647b69f9409f8cf679|Assets/ShockCollarOSCBridge/ShockOSCBridgeFX.controller
+            objRef: {fileID: 9100000, guid: 93a7a6865ac80d647b69f9409f8cf679, type: 2}
           type: 5
         menus: []
         prms: []
