@@ -23,7 +23,7 @@ This controller works as a bridge between Liindys Shock Collar and VRCOsc or Sho
 - Import the latest unity package from the [Releases Page](https://github.com/jellejurre/Shock-Collar-OSC-Bridge/releases/latest)
 - Use VRCFury or the Avatar 3.0 Manager to install the `ShockOSCBridgeFX` controller.
   - If using the Avatar 3.0 Manager, make sure to remove the   `0` postfixes from the merged parameters before merging.
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/318ba019-12fd-4a43-983d-8060170baddf/4dd962ae-420c-4820-9ea3-18e4d7cb8bac/Untitled.png)
+![Untitled](https://github.com/user-attachments/assets/952ec517-1252-463f-a6d8-2fbf732395e5)
   - So remove the “ 0” above from those fields.
 - Change the ShockCollarOSCBridge/Intensity1-5 and ShockCollarOSCBridge/Duration1-5 values to your liking, Intensity goes from 0 to 100, Duration goes from 0 to 10.
 
@@ -32,7 +32,7 @@ From here on your install route depends on if you’re using PiShock software sh
 # Pishock route
 - Install VRCOSC from [here](https://github.com/VolcanicArts/VRCOSC).
 - Enable the PiShock module at the bottom by clicking on the big gray checkbox.
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/318ba019-12fd-4a43-983d-8060170baddf/16953695-2ebc-449b-907b-898beebeee2e/Untitled.png)
+![Untitled(1)](https://github.com/user-attachments/assets/68074cca-92e7-45b5-ae0f-b5ec75b4bddb)
 - Click on the gear icon at the right of this module to enter the settings page.
 - Enter your username and API Key, and set up a Shocker with a name and a sharecode  (this system assumes your shocker is shocker 0).
 
