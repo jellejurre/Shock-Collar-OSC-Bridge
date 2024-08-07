@@ -39,4 +39,5 @@ From here on your install route depends on if you’re using PiShock software sh
 # OpenShock route
 - Install ShockOSC from [here](https://github.com/OpenShock/ShockOSC).
 - Log in with your OpenShock account. It should automatically find your OpenShock shockers.
+
 Note: The asset will shock all your active OpenShock shockers.
