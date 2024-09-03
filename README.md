@@ -32,6 +32,9 @@ Note: Hold mode isn't supported. It will shock with the previously set values.
 From here on your install route depends on if you’re using PiShock software shockers or OpenShock software shockers.
 
 # Pishock route
+Video for this route as requested:
+https://github.com/user-attachments/assets/75863274-b1bd-49db-ac5d-53f78e270ef4
+
 - Install VRCOSC from [here](https://github.com/VolcanicArts/VRCOSC).
 - Enable the PiShock module at the bottom by clicking on the big gray checkbox.
 ![Untitled(1)](https://github.com/user-attachments/assets/68074cca-92e7-45b5-ae0f-b5ec75b4bddb)
