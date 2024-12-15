@@ -76,8 +76,8 @@ MonoBehaviour:
         - SHOCK/Intensity
         - SHOCK/IsShocking
         - SHOCK/IsBeeping
-        - VRCOSC/PiShock/Duration
-        - VRCOSC/PiShock/Intensity
+        - VRCOSC/PiShock/Duration/0
+        - VRCOSC/PiShock/Intensity/0
         - VRCOSC/PiShock/Shock/0
         - VRCOSC/PiShock/Beep/0
         - ShockOsc/_All_IShock

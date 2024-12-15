@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 3
-    name: VRCOSC/PiShock/Duration
+    name: VRCOSC/PiShock/Duration/0
     source: ShockCollarOSCBridge/Duration2
     value: 0
     valueMin: 0
@@ -53,7 +53,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 3
-    name: VRCOSC/PiShock/Intensity
+    name: VRCOSC/PiShock/Intensity/0
     source: ShockCollarOSCBridge/Intensity1
     value: 0
     valueMin: 0
@@ -462,7 +462,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 0
-    name: VRCOSC/PiShock/Duration
+    name: VRCOSC/PiShock/Duration/0
     source: SHOCK/Delay
     value: 0.28561
     valueMin: 0
@@ -526,7 +526,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 3
-    name: VRCOSC/PiShock/Intensity
+    name: VRCOSC/PiShock/Intensity/0
     source: ShockCollarOSCBridge/Intensity3
     value: 0
     valueMin: 0
@@ -944,7 +944,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 3
-    name: VRCOSC/PiShock/Duration
+    name: VRCOSC/PiShock/Duration/0
     source: ShockCollarOSCBridge/Duration4
     value: 0
     valueMin: 0
@@ -1370,7 +1370,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 3
-    name: VRCOSC/PiShock/Intensity
+    name: VRCOSC/PiShock/Intensity/0
     source: ShockCollarOSCBridge/Intensity4
     value: 0
     valueMin: 0
@@ -1512,7 +1512,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 3
-    name: VRCOSC/PiShock/Duration
+    name: VRCOSC/PiShock/Duration/0
     source: ShockCollarOSCBridge/Duration5
     value: 0
     valueMin: 0
@@ -1636,13 +1636,13 @@ AnimatorController:
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
-  - m_Name: VRCOSC/PiShock/Duration
+  - m_Name: VRCOSC/PiShock/Duration/0
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
-  - m_Name: VRCOSC/PiShock/Intensity
+  - m_Name: VRCOSC/PiShock/Intensity/0
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -1733,7 +1733,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 3
-    name: VRCOSC/PiShock/Duration
+    name: VRCOSC/PiShock/Duration/0
     source: ShockCollarOSCBridge/Duration3
     value: 0
     valueMin: 0
@@ -1772,7 +1772,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 0
-    name: VRCOSC/PiShock/Duration
+    name: VRCOSC/PiShock/Duration/0
     source: SHOCK/Delay
     value: 0.14285
     valueMin: 0
@@ -2124,7 +2124,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 0
-    name: VRCOSC/PiShock/Duration
+    name: VRCOSC/PiShock/Duration/0
     source: SHOCK/Delay
     value: 0
     valueMin: 0
@@ -2163,7 +2163,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 3
-    name: VRCOSC/PiShock/Duration
+    name: VRCOSC/PiShock/Duration/0
     source: ShockCollarOSCBridge/Duration1
     value: 0
     valueMin: 0
@@ -2202,7 +2202,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 3
-    name: VRCOSC/PiShock/Intensity
+    name: VRCOSC/PiShock/Intensity/0
     source: ShockCollarOSCBridge/Intensity5
     value: 0
     valueMin: 0
@@ -2670,7 +2670,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 0
-    name: VRCOSC/PiShock/Duration
+    name: VRCOSC/PiShock/Duration/0
     source: SHOCK/Delay
     value: 0.07142
     valueMin: 0
@@ -2759,7 +2759,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 0
-    name: VRCOSC/PiShock/Duration
+    name: VRCOSC/PiShock/Duration/0
     source: SHOCK/Delay
     value: 0.21428
     valueMin: 0
@@ -2913,7 +2913,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parameters:
   - type: 3
-    name: VRCOSC/PiShock/Intensity
+    name: VRCOSC/PiShock/Intensity/0
     source: ShockCollarOSCBridge/Intensity2
     value: 0
     valueMin: 0
